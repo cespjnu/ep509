@@ -1,0 +1,9 @@
+*
+!*.org
+!*.html
+!*.pdf
+!*.jpeg
+!*.jpg
+!*.png
+!*.gitignore
+!*.gitattributes

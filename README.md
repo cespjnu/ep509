@@ -1,13 +1,6 @@
----
-title: Reading List
----
+# Reading List
 
-
-**Contents**
-* TOC
-{:toc}
-
-# Agrarian Conditions at the time of Independence
+## Agrarian Conditions at the time of Independence
 
 - Byres, T. J. (ed.)(1998), The State, Development Planning and Liberalisation in India, Oxford India Paperbacks, New Delhi.
 - Government of India, Planning Commission (1952), First Five Year Plan: 1951-56, New Delhi. [Chapter 9](http://planningcommission.nic.in/plans/planrel/fiveyr/1st/1planch9.html).
@@ -22,24 +15,24 @@ title: Reading List
 - Mann, Harold H and Kantikar, N. V. (1921), [Land and Labour in a Deccan Village](http://www.archive.org/details/landandlabourina031836mbp), Study No. 2, Oxford University Press, London.
 
 
-#  Trends, Patterns and Source of Agricultural Growth in India after Independence
+##  Trends, Patterns and Source of Agricultural Growth in India after Independence
 
-## Readings on trends of agricultural growth
+### Readings on trends of agricultural growth
 
 - **Mohan Rao, J. and Storm, Servaas (1998), "[Distribution and Growth in Indian Agriculture?](documents/mohanrao.pdf), in Byres, Terence J., The Indian Economy: Major Debates since Independence, OUP.
 - **Bhalla, G. S. and Singh, Gurmail (2009), "[Economic Liberalisation and Indian Agriculture: A Statewise Analysis](documents/bhalla09.pdf), Economic and Political Weekly, XLIV(52), pp. 34-44.
 - Bhalla, G. S. (2007), Indian Agriculture since Independence, National Book Trust, New Delhi. Chapter 5: Agricultural Growth in India since 1950-51. [Chapter 5](documents/gsbhalla.pdf).
 - Rada, Nicholas (2016), "[India's post-green-revolution agricultural performance: what is driving growth?](documents/rada2016.pdf)", Agricultural Economics, 47(3), pp.  341--350
 
-## Green Revolution
+### Green Revolution
 
 - **Barker, R. and Herdt, H. W (1985), [Rice Economy of Asia](documents/rice-economy-of-asia.pdf), Resources for Future, Washington DC.
 - **Byres, T. J. (1981), "[The New Technology, Class Formation and Class Action in the Indian Countryside?](documents/byres_new_technology_class_formation_jps.pdf)", The Journal of Peasant Studies, 8(4), July.
 - **[Watch this video interview of Professor M. S. Swaminathan](https://www.youtube.com/watch?v=n4dRlbewv9g)
 
-## Growth in the Post-liberalisation Period
+### Growth in the Post-liberalisation Period
 
-## Crop diversification
+### Crop diversification
 
 - *National Commission on Farmers (2004), [Serving Farmers and Saving Farming](documents/ncf-first-report.pdf), First Report, National Commission on Farmers, New Delhi.
 - *National Commission on Farmers, [Serving Farmers and Saving Farming: From Crisis to Confidence](documents/ncf-second-report.pdf), Second Report, National Commission on Farmers, New Delhi.
@@ -47,14 +40,14 @@ title: Reading List
 - **Rawal, Vikas, "[Diversification of Livelihoods in Rural India](documents/diversification-note.pdf)", mimeo.
 
 
-# Land and Land Relations
+## Land and Land Relations
 
-## Land Distribution in Rural India
+### Land Distribution in Rural India
 
 - **Rawal, Vikas and Bansal, Vaishali (2021), “[The Land Question in Contemporary Rural India](http://archive.indianstatistics.org/sserwp/sserwp2102.pdf)”, SSER Monograph 21/2, Society for Social and Economic Research, New Delhi.
 - Ramachandran, V. K. (1980), "[A Note on Official Sources of Data on Landholdings in Tamil Nadu](documents/vkr-land-holdings.pdf)", Data Series No 1, Madras Institute of Development Studies.
 
-## Tenancy relations
+### Tenancy relations
 
 - **Bansal, Vaishali, Usami, Yoshifumi, and Rawal, Vikas (2018),
   [Agricultural Tenancy in Contemporary
@@ -91,7 +84,7 @@ title: Reading List
   Indian Village', Journal of Development Studies, 33:1
 
 
-## Implementation of Land Reforms: Experiences and Contemporary Relevance
+### Implementation of Land Reforms: Experiences and Contemporary Relevance
 
 - **Appu, P.S (1996), Land Reforms in India: A Survey of Policy, Legislation and Implementation, Vikas, New Delhi.
 - Ramachandran, V. K. and Swaminathan, Madhura (eds.), Agrarian Studies: Essays on Agrarian Relations in Less-Developed Countries, Tulika and Zed Books.
@@ -110,7 +103,7 @@ title: Reading List
 - Shah, Ghanshyam and Sah, D. C. (eds.) (2002), Land Reforms in India, Vol. 8, Performance and Challenges in Gujarat and Maharashtra, Sage Publications, New Delhi.
 - Thangaraj, M (2004), Land Reforms in India, Vol. 9, Tamil Nadu - An Unfinished Task, Sage Publications, New Delhi.  :::
 
-# Farm-size Productivity Debate
+## Farm-size Productivity Debate
 
 - Sen, Abhijit (1981), "Market Failure and Control of Labour Power:
   Towards an Explanation of 'Structure' and Change in Indian
@@ -121,15 +114,15 @@ title: Reading List
   Agriculture: A Study Based on Farm Management Surveys"
 
 
-# Rural Credit, Banking and Investment
+## Rural Credit, Banking and Investment
 
-## Rural Credit
+### Rural Credit
 - Amit Bhaduri (1977), "[On the Formation of Usurious Interest Rates in Backward Agriculture](documents/amit-bhadhuri-interest-rates.pdf)"
 - Swaminathan, Madhura (1991), "[Segementation, Collateral Undervaluation and the Rate of Interest in Agrarian Credit Markets](documents/madhura-swaminathan-segmentation.pdf): Some Evidence from Two Villages in South India", Cambridge Journal of Economics, 15, 161--178.
 - *Swaminathan, Madhura and Ramachandran, V. K. (eds.), Financial Liberalisation and Rural Credit in India, Tulika Books, New Delhi.
 
 
-## Public Investment in Agriculture
+### Public Investment in Agriculture
 
 
 - Thavaraj, MJK, "[Regional Imbalances and Public Investment in India (1860-1947)](documents/thavaraj.pdf)", Social Scientist, Vol. 1, No. 4. (Nov., 1972), pp. 3-24.
@@ -138,9 +131,9 @@ title: Reading List
 - **Thulasamma, L (2002), "[Investment in Agriculture: Trends and Issues](documents/thulasamma.pdf)", paper presented at the All-India Conference on Agriculture and Rural Society in Contemporary India, Barddhaman.
 - **Ramachandran, V. K. and Rawal, Vikas (2010), "[The Impact of Liberalization and Globalization on India's Agrarian Economy](http://digitalcommons.mcmaster.ca/globallabour/vol1/iss1/5)", Global Labour Journal, 1(1).
 
-# Labour Relations in Rural India
+## Labour Relations in Rural India
 
-## Labour Contracts in Rural India
+### Labour Contracts in Rural India
 
 - *Dreze, Jean and Mukherjee, Anindita (1987), "Labour Contracts in Rural India: Theories and Evidence?", STICERD Development Research Programme Discussion Paper No. 7, London School of Economics, Feb.
 - **Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford. Ch. 8 and 9.
@@ -149,7 +142,7 @@ title: Reading List
 - Breman, Jan, Patronage and Exploitation: Changing Agrarian Relations in South Gujarat, University of California Press, Berkeley.
 - Baland, Jean-Marie, J. Dreze and L. Leruth (1999), '[Daily Wages and Piece Ra tes in Agrarian Economies](documents/baland-dreze-leruth.pdf)', Journal of Development Economics, 59, 445-61.
 
-## Employment: Levels and Structure
+### Employment: Levels and Structure
 
 - Ghosh, Jayati, "[Economic Growth and Employment Generation in India:
   Old Problems and New
@@ -164,13 +157,13 @@ title: Reading List
 - Abhijit Sen and Jayati Ghosh (1993), 'Trends in Rural Employment and the Poverty-Employment Linkage', ILO-ARTEP, New Delhi.
 
 
-## Trends in Rural Wages
+### Trends in Rural Wages
 
 - **Usami, Yoshifumi, "[A Note on Recent Trends in Wage Rates in Rural India](http://ras.org.in/a_note_on_recent_trends_in_wage_rates_in_rural_india)", Review of Agrarian Studies.
 - **Usami, Yoshifumi, "[Recent Trends in Wage Rates in Rural India: An Update](http://ras.org.in/index.php?Article=recent_trends_in_wage_rates_in_rural_india&q=usami&keys=usami)", Review of Agrarian Studies
 - Himanshu, "[Wages in Rural India: Sources, Trends and Comparability](documents/himanshu_wages.pdf)", Indian Journal of Labour Economics.
 
-## Women in Rural Labour Force
+### Women in Rural Labour Force
 
 - Agarwal, Bina (1986), ˜Women, Poverty and Agricultural Growth in India", Journal of Peasant Studies, 13.
 - Agarwal, Bina (1994), A Field of One's Own: Gender and Land Rights in South Asia, Cambridge University Press, Cambridge
@@ -189,7 +182,7 @@ title: Reading List
 - Reddy, M. Atchi (1983), ˜Female Agricultural Labourers of Nellore, 1881-1981", Indian Economic and Social History Review, 20(2), 67-79.
 - Unni, Jeemol. 1989. "Changes in Women's Employment in Rural Areas, 1961-83, â€? Economic and Political Weekly, 24(17), April 29.
 
-## Unfreedom in Rural Labour Relations
+### Unfreedom in Rural Labour Relations
 
 - Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford.
 - Rawal, Vikas (2006), "[The Labour Process in Rural Haryana (India): A Field-Report from Two Villages?](documents/joac-haryana-vikas.pdf)", Journal of Agrarian Change, 6 (4), October, pp.538-83.
@@ -198,7 +191,7 @@ title: Reading List
 - Thorat, Sukhdeo (2009), [Dalits in India](documents/thorat-dalits-in-india.pdf), Sage Publications, New Delhi
 - Ramachandran, VK and Swaminathan, Madhura (2014) (eds), Dalit Households in Village Economies, Tulika Books, New Delhi
 
-# Interlocking of Rural Markets
+## Interlocking of Rural Markets
 
 - Basu, Kaushik (1984), "Implicit Interest Rates, Usury and Isolation in Backward Agriculture", Cambridge Journal of Economics.
 - Bhaduri, Amit (1983), The Economic Structure of Backward Agriculture, Academic Press, London, Ch. 5.
@@ -211,7 +204,7 @@ title: Reading List
 - Bardhan, P. K. and Rudra, A. (19780, "Interlinkage of Land, Labour and Credit Relations: An Analysis of Village Survey Data in East India", Economic and Political Weekly, Feb, pp. 367-84.
 - Bharadwaj, Krishna and P. K. Das (1975), "Tenurial Conditions and Mode of Exploitation", Economic and Political Weekly, Annual no., Feb.
 
-# Price Policies, Cost of Cultivation and Farm Business Incomes
+## Price Policies, Cost of Cultivation and Farm Business Incomes
 
 - Sen, Abhijit and Bhatia, M. S. (2004), Cost of Cultivation and Farm Income, State of the Indian Farmer: A Millennium Study, Vol 14, Academic Foundation, New Delhi. Exim bank library
 - Rawal, Vikas (2014), "[Economics of Family Farming: A Study of Returns from Crop Production in India](documents/mssrf_coc.pdf)", July 26.
@@ -222,14 +215,14 @@ title: Reading List
 - Patnaik, Prabhat (1996), "Why Domestic Prices Should Not be Equated to World Prices, EPW, 31 (35-37).
 - [Report of the Long-term Foodgrain Policy](http://fcamin.nic.in/dfpd/EventListing.asp?Section=High%20Level%20Committee%20Report&id_pk=12&ParentID=0), Department of Food and Public Distribution, Government of India.
 
-# Mode of Production
+## Mode of Production
 
 - Chattopadhyay, Paresh (1972), "[On the Question of the Mode of Production in Indian Agriculture: A Preliminary Note](documents/MOP/paresh-mar-25-1972.pdf)", Economic and Political Weekly, Vol. 7, No. 13 (Mar. 25, 1972), pp.  A39+A41-A46
 - Patnaik, Utsa (1971), "[Capitalist Development in Agriculture: A Note](documents/MOP/patnaik-epw-sep-1971.pdf)", EPW, 6(39), Sep 25.
 - Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford, Ch 3.
 - Zedong, Mao (1933), "[How to differentiate the classes in the rural areas](documents/mao.pdf)", Selected works of Mao Zedong, Mao Archives.
 
-# Food Security and Public Distribution System
+## Food Security and Public Distribution System
 
 - Swaminathan, Madhura (2000), Weakening Welfare: The Public Distribution of Food in India, Leftword Books, New Delhi.
 - Patnaik, Utsa (1996), "Export Oriented Agriculture and Food Security in Developing Countries and in India", Economic and Political Weekly, Special No. August.

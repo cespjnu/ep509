@@ -44,8 +44,7 @@
 
 ### Land Distribution in Rural India
 
-- **Rawal, Vikas and Bansal, Vaishali (2021), “[The Land Question in Contemporary Rural India](http://archive.indianstatistics.org/sserwp/sserwp2102.pdf)”, SSER Monograph 21/2, Society for Social and Economic Research, New Delhi.
-- Ramachandran, V. K. (1980), "[A Note on Official Sources of Data on Landholdings in Tamil Nadu](documents/vkr-land-holdings.pdf)", Data Series No 1, Madras Institute of Development Studies.
+- **Rawal, Vikas and Bansal, Vaishali (2022), “[The Land Question in Contemporary Rural India](http://archive.indianstatistics.org/sserwp/sserwp2202.pdf)”, SSER Monograph 22/2, Society for Social and Economic Research, New Delhi.
 
 ### Tenancy relations
 

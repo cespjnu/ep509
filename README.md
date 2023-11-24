@@ -4,7 +4,7 @@
 
 - Byres, T. J. (ed.)(1998), The State, Development Planning and Liberalisation in India, Oxford India Paperbacks, New Delhi.
 - Government of India, Planning Commission (1952), First Five Year Plan: 1951-56, New Delhi. [Chapter 9](http://planningcommission.nic.in/plans/planrel/fiveyr/1st/1planch9.html).
-- Nanavati, Manilal B. and Anjaria, J..J. (1944), The Indian Rural Problem, The Indian Society of Agricultural Economics, Bombay, Chap.  [III](documents/nanavati-anjaria-ch03.pdf), VIII, XII (Main library)
+- Nanavati, Manilal B. and Anjaria, J..J. (1944), The Indian Rural Problem, The Indian Society of Agricultural Economics, Bombay, Chap.  [III](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/nanavati-anjaria-ch03.pdf), VIII, XII (Main library)
 - *Palme Dutt, Rajani (1970), India Today, Manisha Granthalaya, Calcutta (first ed. 1940, rev. enlarged ed. 1947). [pp. 197-257](documents/rpd.pdf)
 - Patnaik, Utsa (1985), '[Reflections on the Agrarian Question and the Development of Capitalism in India](documents/utsa_daniel_thorner.pdf)', Daniel Thorner Memorial Lecture, New Delhi.
 - Rao, J. Mohan (1998), 'Agricultural Development under State Planning', in Byres, T. J. (ed.) (1998), The State, Development Planning and Liberalisation in India, Oxford India Paperbacks, New Delhi, pp. 127-171.

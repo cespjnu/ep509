@@ -5,8 +5,8 @@
 - Byres, T. J. (ed.)(1998), The State, Development Planning and Liberalisation in India, Oxford India Paperbacks, New Delhi.
 - Government of India, Planning Commission (1952), First Five Year Plan: 1951-56, New Delhi. [Chapter 9](http://planningcommission.nic.in/plans/planrel/fiveyr/1st/1planch9.html).
 - Nanavati, Manilal B. and Anjaria, J..J. (1944), The Indian Rural Problem, The Indian Society of Agricultural Economics, Bombay, Chap.  [III](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/nanavati-anjaria-ch03.pdf), VIII, XII (Main library)
-- *Palme Dutt, Rajani (1970), India Today, Manisha Granthalaya, Calcutta (first ed. 1940, rev. enlarged ed. 1947). [pp. 197-257](documents/rpd.pdf)
-- Patnaik, Utsa (1985), '[Reflections on the Agrarian Question and the Development of Capitalism in India](documents/utsa_daniel_thorner.pdf)', Daniel Thorner Memorial Lecture, New Delhi.
+- *Palme Dutt, Rajani (1970), India Today, Manisha Granthalaya, Calcutta (first ed. 1940, rev. enlarged ed. 1947). [pp. 197-257](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/rpd.pdf)
+- Patnaik, Utsa (1985), '[Reflections on the Agrarian Question and the Development of Capitalism in India](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/utsa_daniel_thorner.pdf)', Daniel Thorner Memorial Lecture, New Delhi.
 - Rao, J. Mohan (1998), 'Agricultural Development under State Planning', in Byres, T. J. (ed.) (1998), The State, Development Planning and Liberalisation in India, Oxford India Paperbacks, New Delhi, pp. 127-171.
 - Thorner, Daniel and Thorner, Alice, Land and Labour in India, Asia Publishing House, Bombay.
 - Dantwala, M. L. (1986), 'Strategy of Agricultural Development Since Independence', in Dantwala, et. al. (eds.) Indian Agricultural Development Since Independence, New Delhi, pp. 1-15.
@@ -19,25 +19,25 @@
 
 ### Readings on trends of agricultural growth
 
-- **Mohan Rao, J. and Storm, Servaas (1998), "[Distribution and Growth in Indian Agriculture?](documents/mohanrao.pdf), in Byres, Terence J., The Indian Economy: Major Debates since Independence, OUP.
-- **Bhalla, G. S. and Singh, Gurmail (2009), "[Economic Liberalisation and Indian Agriculture: A Statewise Analysis](documents/bhalla09.pdf), Economic and Political Weekly, XLIV(52), pp. 34-44.
-- Bhalla, G. S. (2007), Indian Agriculture since Independence, National Book Trust, New Delhi. Chapter 5: Agricultural Growth in India since 1950-51. [Chapter 5](documents/gsbhalla.pdf).
-- Rada, Nicholas (2016), "[India's post-green-revolution agricultural performance: what is driving growth?](documents/rada2016.pdf)", Agricultural Economics, 47(3), pp.  341--350
+- **Mohan Rao, J. and Storm, Servaas (1998), "[Distribution and Growth in Indian Agriculture?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/mohanrao.pdf), in Byres, Terence J., The Indian Economy: Major Debates since Independence, OUP.
+- **Bhalla, G. S. and Singh, Gurmail (2009), "[Economic Liberalisation and Indian Agriculture: A Statewise Analysis](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/bhalla09.pdf), Economic and Political Weekly, XLIV(52), pp. 34-44.
+- Bhalla, G. S. (2007), Indian Agriculture since Independence, National Book Trust, New Delhi. Chapter 5: Agricultural Growth in India since 1950-51. [Chapter 5](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/gsbhalla.pdf).
+- Rada, Nicholas (2016), "[India's post-green-revolution agricultural performance: what is driving growth?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/rada2016.pdf)", Agricultural Economics, 47(3), pp.  341--350
 
 ### Green Revolution
 
-- **Barker, R. and Herdt, H. W (1985), [Rice Economy of Asia](documents/rice-economy-of-asia.pdf), Resources for Future, Washington DC.
-- **Byres, T. J. (1981), "[The New Technology, Class Formation and Class Action in the Indian Countryside?](documents/byres_new_technology_class_formation_jps.pdf)", The Journal of Peasant Studies, 8(4), July.
+- **Barker, R. and Herdt, H. W (1985), [Rice Economy of Asia](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/rice-economy-of-asia.pdf), Resources for Future, Washington DC.
+- **Byres, T. J. (1981), "[The New Technology, Class Formation and Class Action in the Indian Countryside?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/byres_new_technology_class_formation_jps.pdf)", The Journal of Peasant Studies, 8(4), July.
 - **[Watch this video interview of Professor M. S. Swaminathan](https://www.youtube.com/watch?v=n4dRlbewv9g)
 
 ### Growth in the Post-liberalisation Period
 
 ### Crop diversification
 
-- *National Commission on Farmers (2004), [Serving Farmers and Saving Farming](documents/ncf-first-report.pdf), First Report, National Commission on Farmers, New Delhi.
-- *National Commission on Farmers, [Serving Farmers and Saving Farming: From Crisis to Confidence](documents/ncf-second-report.pdf), Second Report, National Commission on Farmers, New Delhi.
+- *National Commission on Farmers (2004), [Serving Farmers and Saving Farming](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/ncf-first-report.pdf), First Report, National Commission on Farmers, New Delhi.
+- *National Commission on Farmers, [Serving Farmers and Saving Farming: From Crisis to Confidence](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/ncf-second-report.pdf), Second Report, National Commission on Farmers, New Delhi.
 - Deshpande, R. S., Bhende, M. J., Thippaiah, P., Vivekananda, M., Crops and Cultivation, State of the Indian Farmer: A Millennium Study, Volume 9, Academic Foundation, New Delhi. (Exim bank library)
-- **Rawal, Vikas, "[Diversification of Livelihoods in Rural India](documents/diversification-note.pdf)", mimeo.
+- **Rawal, Vikas, "[Diversification of Livelihoods in Rural India](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/diversification-note.pdf)", mimeo.
 
 
 ## Land and Land Relations
@@ -55,21 +55,21 @@
   NSSO Surveys of Land and Livestock Holdings, SSER Monograph 18/1,
   Society for Social and Economic Research, New Delhi.
 - Pearce, R (2005), "[Sharecropping: Towards a Marxist
-  View](documents/pearce.pdf)", in Byres, Terence J. *Sharecropping
+  View](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/pearce.pdf)", in Byres, Terence J. *Sharecropping
   and sharecroppers. Routledge, 2005.
 - Dasgupta, Biplab (1984a), "[Sharecropping in West Bengal: From
   Independence to Operation
-  Bargal?](documents/biplab-dasgupta-west-bengal-epw-jun-1984.pdf),
+  Bargal?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/biplab-dasgupta-west-bengal-epw-jun-1984.pdf),
   Economic and Political Weekly, 19 (26), June 30.
 - Otsuka, K. and Hayami, Y. (1988), "[Theories of Share
-  Tenancy?](documents/otsuka-hayami-share-tenancy.pdf), Economic
+  Tenancy?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/otsuka-hayami-share-tenancy.pdf), Economic
   Development and Cultural Change, 37 (1), pp.  31-68.
 - Swain, Mamata (1999), "Agricultural Tenancy and Interlinked
   Transactions: Neoclassical and Marxist Approaches", [part
-  I](documents/swain-tenancy-epw-sep-1999-part-1.pdf), Economic and
+  I](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/swain-tenancy-epw-sep-1999-part-1.pdf), Economic and
   Political Weekly, Vol. 34, No. 37 (Sep. 11-17, 1999), pp.
   2657-2659+2661-2666 and [part
-  II](documents/swain-tenancy-epw-sep-1999-part2.pdf), Economic and
+  II](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/swain-tenancy-epw-sep-1999-part2.pdf), Economic and
   Political Weekly, Vol. 34, No. 38 (Sep. 18-24, 1999), pp.
   2752-2758.
 - Otsuka, K. and Hayami, Y. (1988), "Theories of Share Tenancy",
@@ -87,8 +87,8 @@
 
 - **Appu, P.S (1996), Land Reforms in India: A Survey of Policy, Legislation and Implementation, Vikas, New Delhi.
 - Ramachandran, V. K. and Swaminathan, Madhura (eds.), Agrarian Studies: Essays on Agrarian Relations in Less-Developed Countries, Tulika and Zed Books.
-- *El-Ghonemy, M Riad, [The Political Economy of Rural Poverty: The Case for Land Reforms](documents/el-ghonemy.pdf), Routledge, London and New York
-- **V. K. Ramachandran and R. Ramakumar (2000), "[Agrarian Reform and Rural Development Policies in India](documents/vkr-rr-icarrd.pdf)", paper presented at the International Conference on Agrarian Reform and Rural Development, Manilla, December 5 to 8, 2000.
+- *El-Ghonemy, M Riad, [The Political Economy of Rural Poverty: The Case for Land Reforms](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/el-ghonemy.pdf), Routledge, London and New York
+- **V. K. Ramachandran and R. Ramakumar (2000), "[Agrarian Reform and Rural Development Policies in India](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/vkr-rr-icarrd.pdf)", paper presented at the International Conference on Agrarian Reform and Rural Development, Manilla, December 5 to 8, 2000.
 - Mishra, Surjya Kanta and Rawal, Vikas (2002), "Agrarian Relations in Contemporary West Bengal and Tasks for the Leftâ€?, in Ramachandran, V.  K. and Swaminathan, Madhura (eds.).
 - Biplab Dasgupta
 - Ghose, Ajit Kumar (ed.) (1984), Agrarian Reforms in Contemporary Developing Countries, Selectbook Service Syndicate, New Delhi.
@@ -106,8 +106,8 @@
 
 - Sen, Abhijit (1981), "Market Failure and Control of Labour Power:
   Towards an Explanation of 'Structure' and Change in Indian
-  Agriculture. [Part 1](documents/abhijit_sen_cje_part1.pdf) and [Part
-  2](documents/abhijit_sen_cje_part2.pdf), Cambridge Journal of
+  Agriculture. [Part 1](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/abhijit_sen_cje_part1.pdf) and [Part
+  2](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/abhijit_sen_cje_part2.pdf), Cambridge Journal of
   Economics
 - Bharadwaj, Krishna (1974), "Production Conditions in Indian
   Agriculture: A Study Based on Farm Management Surveys"
@@ -116,18 +116,18 @@
 ## Rural Credit, Banking and Investment
 
 ### Rural Credit
-- Amit Bhaduri (1977), "[On the Formation of Usurious Interest Rates in Backward Agriculture](documents/amit-bhadhuri-interest-rates.pdf)"
-- Swaminathan, Madhura (1991), "[Segementation, Collateral Undervaluation and the Rate of Interest in Agrarian Credit Markets](documents/madhura-swaminathan-segmentation.pdf): Some Evidence from Two Villages in South India", Cambridge Journal of Economics, 15, 161--178.
+- Amit Bhaduri (1977), "[On the Formation of Usurious Interest Rates in Backward Agriculture](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/amit-bhadhuri-interest-rates.pdf)"
+- Swaminathan, Madhura (1991), "[Segementation, Collateral Undervaluation and the Rate of Interest in Agrarian Credit Markets](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/madhura-swaminathan-segmentation.pdf): Some Evidence from Two Villages in South India", Cambridge Journal of Economics, 15, 161--178.
 - *Swaminathan, Madhura and Ramachandran, V. K. (eds.), Financial Liberalisation and Rural Credit in India, Tulika Books, New Delhi.
 
 
 ### Public Investment in Agriculture
 
 
-- Thavaraj, MJK, "[Regional Imbalances and Public Investment in India (1860-1947)](documents/thavaraj.pdf)", Social Scientist, Vol. 1, No. 4. (Nov., 1972), pp. 3-24.
-- Chand, Ramesh and Kumar, Pramod (2004), "[Determinants of Capital Formation and Agricultural Growth: Some New Explorations](documents/ramesh-chand-epw.pdf)", Economic and Political Weekly, December 25.
+- Thavaraj, MJK, "[Regional Imbalances and Public Investment in India (1860-1947)](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/thavaraj.pdf)", Social Scientist, Vol. 1, No. 4. (Nov., 1972), pp. 3-24.
+- Chand, Ramesh and Kumar, Pramod (2004), "[Determinants of Capital Formation and Agricultural Growth: Some New Explorations](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/ramesh-chand-epw.pdf)", Economic and Political Weekly, December 25.
 - Ministry of Agriculture (2003), [Report of the Committee on Capital Formation in Agriculture](http://agricoop.nic.in/Capital%20Formation/Capital%20Formation.htm)
-- **Thulasamma, L (2002), "[Investment in Agriculture: Trends and Issues](documents/thulasamma.pdf)", paper presented at the All-India Conference on Agriculture and Rural Society in Contemporary India, Barddhaman.
+- **Thulasamma, L (2002), "[Investment in Agriculture: Trends and Issues](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/thulasamma.pdf)", paper presented at the All-India Conference on Agriculture and Rural Society in Contemporary India, Barddhaman.
 - **Ramachandran, V. K. and Rawal, Vikas (2010), "[The Impact of Liberalization and Globalization on India's Agrarian Economy](http://digitalcommons.mcmaster.ca/globallabour/vol1/iss1/5)", Global Labour Journal, 1(1).
 
 ## Labour Relations in Rural India
@@ -137,9 +137,9 @@
 - *Dreze, Jean and Mukherjee, Anindita (1987), "Labour Contracts in Rural India: Theories and Evidence?", STICERD Development Research Programme Discussion Paper No. 7, London School of Economics, Feb.
 - **Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford. Ch. 8 and 9.
 - Ramachandran, VK, Swaminathan, Madhura and Rawal, Vikas, Agricultural Workers in Rural Tamil Nadu.: A Field Report, in Ramachandran, V. K. and Swaminathan, Madhura (eds.) (2002).
-- **Rawal, Vikas (2006), "[The Labour Process in Rural Haryana (India): A Field-Report from Two Villages](documents/joac-haryana-vikas.pdf)", Journal of Agrarian Change, 6 (4), October, pp.538-83.
+- **Rawal, Vikas (2006), "[The Labour Process in Rural Haryana (India): A Field-Report from Two Villages](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/joac-haryana-vikas.pdf)", Journal of Agrarian Change, 6 (4), October, pp.538-83.
 - Breman, Jan, Patronage and Exploitation: Changing Agrarian Relations in South Gujarat, University of California Press, Berkeley.
-- Baland, Jean-Marie, J. Dreze and L. Leruth (1999), '[Daily Wages and Piece Ra tes in Agrarian Economies](documents/baland-dreze-leruth.pdf)', Journal of Development Economics, 59, 445-61.
+- Baland, Jean-Marie, J. Dreze and L. Leruth (1999), '[Daily Wages and Piece Ra tes in Agrarian Economies](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/baland-dreze-leruth.pdf)', Journal of Development Economics, 59, 445-61.
 
 ### Employment: Levels and Structure
 
@@ -152,7 +152,7 @@
   Statistics on Indian Economy and Society, SSER Monograph 15/1,
   Society for Social and Economic Research, New Delhi.
 - Rural India, in Ramachandran, V. K. and Swaminathan, Madhura (eds.)  (2002), Agrarian Studies: Esays on Agrarian Relations in Less-Developed Countries, Tulika Books, New Delhi.
-- Chadha, GK and Sahu, PP (2002), "[Post-Reform Setbacks in Rural Employment: Issues that Need Further Scrutiny](documents/chadha-sahu.pdf)", Economic and Poltical Weekly, May 25.
+- Chadha, GK and Sahu, PP (2002), "[Post-Reform Setbacks in Rural Employment: Issues that Need Further Scrutiny](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/chadha-sahu.pdf)", Economic and Poltical Weekly, May 25.
 - Abhijit Sen and Jayati Ghosh (1993), 'Trends in Rural Employment and the Poverty-Employment Linkage', ILO-ARTEP, New Delhi.
 
 
@@ -160,7 +160,7 @@
 
 - **Usami, Yoshifumi, "[A Note on Recent Trends in Wage Rates in Rural India](http://ras.org.in/a_note_on_recent_trends_in_wage_rates_in_rural_india)", Review of Agrarian Studies.
 - **Usami, Yoshifumi, "[Recent Trends in Wage Rates in Rural India: An Update](http://ras.org.in/index.php?Article=recent_trends_in_wage_rates_in_rural_india&q=usami&keys=usami)", Review of Agrarian Studies
-- Himanshu, "[Wages in Rural India: Sources, Trends and Comparability](documents/himanshu_wages.pdf)", Indian Journal of Labour Economics.
+- Himanshu, "[Wages in Rural India: Sources, Trends and Comparability](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/himanshu_wages.pdf)", Indian Journal of Labour Economics.
 
 ### Women in Rural Labour Force
 
@@ -184,10 +184,10 @@
 ### Unfreedom in Rural Labour Relations
 
 - Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford.
-- Rawal, Vikas (2006), "[The Labour Process in Rural Haryana (India): A Field-Report from Two Villages?](documents/joac-haryana-vikas.pdf)", Journal of Agrarian Change, 6 (4), October, pp.538-83.
-- Rao, J. Mohan(1999), "[Agrarian power and unfree labour](documents/mohan-rao.pdf)", Journal of Peasant Studies, 26(2), pp. 242-262.
-- B. T. Ranadive (1979), "[Class, Caste and Property Relations](documents/btr-epw.pdf)", Economic and Political Weekly, Annual number, pp. 337-348.
-- Thorat, Sukhdeo (2009), [Dalits in India](documents/thorat-dalits-in-india.pdf), Sage Publications, New Delhi
+- Rawal, Vikas (2006), "[The Labour Process in Rural Haryana (India): A Field-Report from Two Villages?](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/joac-haryana-vikas.pdf)", Journal of Agrarian Change, 6 (4), October, pp.538-83.
+- Rao, J. Mohan(1999), "[Agrarian power and unfree labour](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/mohan-rao.pdf)", Journal of Peasant Studies, 26(2), pp. 242-262.
+- B. T. Ranadive (1979), "[Class, Caste and Property Relations](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/btr-epw.pdf)", Economic and Political Weekly, Annual number, pp. 337-348.
+- Thorat, Sukhdeo (2009), [Dalits in India](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/thorat-dalits-in-india.pdf), Sage Publications, New Delhi
 - Ramachandran, VK and Swaminathan, Madhura (2014) (eds), Dalit Households in Village Economies, Tulika Books, New Delhi
 
 ## Interlocking of Rural Markets
@@ -195,31 +195,31 @@
 - Basu, Kaushik (1984), "Implicit Interest Rates, Usury and Isolation in Backward Agriculture", Cambridge Journal of Economics.
 - Bhaduri, Amit (1983), The Economic Structure of Backward Agriculture, Academic Press, London, Ch. 5.
 - Swaminathan, Madhura (1991), "Segmentation, Collateral Undervaluation and the Rate of Interest in Agrarian Credit Markets", Cambridge Journal of Economics, June.
-- *Hart, Gillian (1986), "[Interlocking Transactions](documents/gillian-hart.pdf)", Journal of Development Economics, 23.
+- *Hart, Gillian (1986), "[Interlocking Transactions](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/gillian-hart.pdf)", Journal of Development Economics, 23.
 - Athreya, V. B., Djurfeldt, G. and Lindberg, Steffan (1990), Barriers Brokenand Tenancy markets, Sage Publications. Ch. 7
-- **Bhaduri, Amit (1973), "[Agricultural Backwardness under Semi-Feudalism](documents/bhaduri-semi-feudalism.pdf)"?, The Economic Journal, March.
+- **Bhaduri, Amit (1973), "[Agricultural Backwardness under Semi-Feudalism](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/bhaduri-semi-feudalism.pdf)"?, The Economic Journal, March.
 - Patnaik, Utsa, Social Scientist
-- Bardhan, Pranab K. (1980), "[Interlocking Factor Markets and Agrarian Development: A Review of Issues](documents/bardhan_interlockingfactormarkets.pdf)", Oxford Economic Papers, New Series, 32 (1), Mar. pp. 82-98.
+- Bardhan, Pranab K. (1980), "[Interlocking Factor Markets and Agrarian Development: A Review of Issues](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/bardhan_interlockingfactormarkets.pdf)", Oxford Economic Papers, New Series, 32 (1), Mar. pp. 82-98.
 - Bardhan, P. K. and Rudra, A. (19780, "Interlinkage of Land, Labour and Credit Relations: An Analysis of Village Survey Data in East India", Economic and Political Weekly, Feb, pp. 367-84.
 - Bharadwaj, Krishna and P. K. Das (1975), "Tenurial Conditions and Mode of Exploitation", Economic and Political Weekly, Annual no., Feb.
 
 ## Price Policies, Cost of Cultivation and Farm Business Incomes
 
 - Sen, Abhijit and Bhatia, M. S. (2004), Cost of Cultivation and Farm Income, State of the Indian Farmer: A Millennium Study, Vol 14, Academic Foundation, New Delhi. Exim bank library
-- Rawal, Vikas (2014), "[Economics of Family Farming: A Study of Returns from Crop Production in India](documents/mssrf_coc.pdf)", July 26.
+- Rawal, Vikas (2014), "[Economics of Family Farming: A Study of Returns from Crop Production in India](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/mssrf_coc.pdf)", July 26.
 - Bharadwaj, Krishna (1994), Agricultural Price Policy for Growth: The Emerging Contradictions, in Byres, T. J. (ed.), The State, Development Planning and Liberalisation in India, OUP. New Delhi.
 - de Janvry, Alain and Subbarao, K. (1986), Agricultural Price Policy and Income Distribution, Oxford University Press, Ch. 2
-- Dev, Mahendra S and Rao, Chandrasekhara N (2010), "Agricultural Price Policy, Farm Profitability and Food Security", [Economic and Political Weekly, June 26, XLV (26/27)](documents/mahendra-epw-2010.pdf)
+- Dev, Mahendra S and Rao, Chandrasekhara N (2010), "Agricultural Price Policy, Farm Profitability and Food Security", [Economic and Political Weekly, June 26, XLV (26/27)](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/mahendra-epw-2010.pdf)
 - Mitra, Ashok (1977), Terms of Trade and Class Relations, Frank Cass, London, Chap. 8-9.
 - Patnaik, Prabhat (1996), "Why Domestic Prices Should Not be Equated to World Prices, EPW, 31 (35-37).
 - [Report of the Long-term Foodgrain Policy](http://fcamin.nic.in/dfpd/EventListing.asp?Section=High%20Level%20Committee%20Report&id_pk=12&ParentID=0), Department of Food and Public Distribution, Government of India.
 
 ## Mode of Production
 
-- Chattopadhyay, Paresh (1972), "[On the Question of the Mode of Production in Indian Agriculture: A Preliminary Note](documents/MOP/paresh-mar-25-1972.pdf)", Economic and Political Weekly, Vol. 7, No. 13 (Mar. 25, 1972), pp.  A39+A41-A46
-- Patnaik, Utsa (1971), "[Capitalist Development in Agriculture: A Note](documents/MOP/patnaik-epw-sep-1971.pdf)", EPW, 6(39), Sep 25.
+- Chattopadhyay, Paresh (1972), "[On the Question of the Mode of Production in Indian Agriculture: A Preliminary Note](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/MOP/paresh-mar-25-1972.pdf)", Economic and Political Weekly, Vol. 7, No. 13 (Mar. 25, 1972), pp.  A39+A41-A46
+- Patnaik, Utsa (1971), "[Capitalist Development in Agriculture: A Note](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/MOP/patnaik-epw-sep-1971.pdf)", EPW, 6(39), Sep 25.
 - Ramachandran, V. K. (1990), Wage Labour and Unfreedom in Agriculture: An Indian Case Study, Clarendon Press, Oxford, Ch 3.
-- Zedong, Mao (1933), "[How to differentiate the classes in the rural areas](documents/mao.pdf)", Selected works of Mao Zedong, Mao Archives.
+- Zedong, Mao (1933), "[How to differentiate the classes in the rural areas](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/mao.pdf)", Selected works of Mao Zedong, Mao Archives.
 
 ## Food Security and Public Distribution System
 

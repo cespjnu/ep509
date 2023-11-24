@@ -130,6 +130,13 @@
 - **Thulasamma, L (2002), "[Investment in Agriculture: Trends and Issues](https://media.githubusercontent.com/media/cespjnu/ep509/main/documents/thulasamma.pdf)", paper presented at the All-India Conference on Agriculture and Rural Society in Contemporary India, Barddhaman.
 - **Ramachandran, V. K. and Rawal, Vikas (2010), "[The Impact of Liberalization and Globalization on India's Agrarian Economy](http://digitalcommons.mcmaster.ca/globallabour/vol1/iss1/5)", Global Labour Journal, 1(1).
 
+## Agricultural Markets
+
+- Rawal, Vikas, Patel, Suvidya and Pais, Jesim (2020), [The Political Economy of Agricultural Market Reforms: An Analysis of the Farmers’ Produce Trade and
+  Commerce (Promotion and Facilitation) Act](http://archive.indianstatistics.org/sserwp/sserwp2004.pdf), SSER Monograph 20/4.
+
+- Rawal, Vikas and Navarro, Dorian K (2019) , [The Global Economy of Pulses](https://www.fao.org/3/i7108en/I7108EN.pdf), FAO, /pp/. 125-132.
+
 ## Labour Relations in Rural India
 
 ### Labour Contracts in Rural India

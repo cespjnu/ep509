@@ -132,9 +132,10 @@
 
 ## Agricultural Markets
 
+
+- Harriss-White, Barbara (eds.) (1999), Agricultural Markets from Theory to Practice: Field Experience in Developing Countries
 - Rawal, Vikas, Patel, Suvidya and Pais, Jesim (2020), [The Political Economy of Agricultural Market Reforms: An Analysis of the Farmers’ Produce Trade and
   Commerce (Promotion and Facilitation) Act](http://archive.indianstatistics.org/sserwp/sserwp2004.pdf), SSER Monograph 20/4.
-
 - Rawal, Vikas and Navarro, Dorian K (2019) , [The Global Economy of Pulses](https://www.fao.org/3/i7108en/I7108EN.pdf), FAO, /pp/. 125-132.
 
 ## Labour Relations in Rural India

@@ -175,16 +175,10 @@
 - Agarwal, Bina (1986), ˜Women, Poverty and Agricultural Growth in India", Journal of Peasant Studies, 13.
 - Agarwal, Bina (1994), A Field of One's Own: Gender and Land Rights in South Asia, Cambridge University Press, Cambridge
 - Banerjee, Nirmala. 1989. "Trends in Women's Employment, 1971-81: Some Macro Level Observations." Economic and Political Weekly 24(17) April 29.
-- Da Corta, L. and D. Venkateshwarlu. 1999. "Unfree Relations and the Feminisation of Agricultural Labour in Andhra Pradesh, 1970-95, â€?  Journal of Peasant Studies 26 (2&3), Jan/April.
-- Deere, Carmen Diana, â€˜Rural Women and State Policy: The Latin American Agrarian Experience' World Development, 13, 9, September 1985, 1037-1053.
+- Da Corta, L. and D. Venkateshwarlu. 1999. "Unfree Relations and the Feminisation of Agricultural Labour in Andhra Pradesh, 1970-95", Journal of Peasant Studies 26 (2&3), Jan/April.
+- Deere, Carmen Diana, "Rural Women and State Policy: The Latin American Agrarian Experience",World Development, 13, 9, September 1985, 1037-1053.
 - Duvvury, Nata. 1989. "Work Participation of Women in India: A Study with Special Reference to Female Agricultural Labourers, 1961 to 1981, â€? in A. V. Jose (ed.) Limited Options: Women Workers in Rural India. New Delhi: ILO-ARTEP.
 - **Ghosh, Jayati. 2009. Never Done and Poorly Paid: Women's Work in Globalising India. New Delhi: Women Unlimited.
-- Jose, A. V. (ed.). 1989. Limited Options: Women Workers in Rural India.  New Delhi: ILO-ARTEP.
-- Krishnaraj, Maithreyi. 1990. "Women's work in Indian Census: Beginnings of Change, " Economic and Political Weekly, December 1-8.
-- Nayyar, Rohini. 1987. "Female Participation Rates in Rural India."  Economic and Political Weekly, 24(17), April.
-- Papola, T. S. and A. Sharma (eds.). 1999. Gender and Employment in India. Indian Society of Labour Economics and Institute of Economic Growth. New Delhi: Vikas Publishing House.
-- Rajuladevi, A. K. 2000. "Female Landless Agricultural Labour Households: Profile in Poverty.â€? Economic and Political Weekly, 35(6), Feb 5.
-- Ramachandran, V. K., Swaminathan, Madhura, and Rawal, Vikas (2002), "How Have Hired Workers Fared? A Case Study of Women Workers from an Indian Village, 1977 To 1999"?, The Indian Journal of Labour Economics, 45 (2), April-June.  :::
 - **Rawal, Vikas and Saha, Partha (2015), “[Women’s Employment in India: What do Recent NSS Surveys of Employment and Unemployment Show?](http://archive.indianstatistics.org/sserwp/sserwp1501.pdf)”, Statistics on Indian Economy and Society, SSER Monograph 15/1, Society for Social and Economic Research, New Delhi.
 - Reddy, M. Atchi (1983), ˜Female Agricultural Labourers of Nellore, 1881-1981", Indian Economic and Social History Review, 20(2), 67-79.
 - Unni, Jeemol. 1989. "Changes in Women's Employment in Rural Areas, 1961-83, â€? Economic and Political Weekly, 24(17), April 29.
